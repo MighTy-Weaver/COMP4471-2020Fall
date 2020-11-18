@@ -1,0 +1,43 @@
+nohup: ignoring input
+[I 15:11:13.917 NotebookApp] The port 10000 is already in use, trying another port.
+[I 15:11:13.920 NotebookApp] Serving notebooks from local directory: /data/weiqi/4471/assignment3
+[I 15:11:13.920 NotebookApp] Jupyter Notebook 6.1.5 is running at:
+[I 15:11:13.920 NotebookApp] http://localhost:10001/notebook/wwangbw/
+[I 15:11:13.920 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 15:12:07.193 NotebookApp] 302 GET /notebook/wwangbw/tree (127.0.0.1) 2.30ms
+[I 15:12:08.706 NotebookApp] 302 POST /notebook/wwangbw/login?next=%2Fnotebook%2Fwwangbw%2Ftree (127.0.0.1) 3.39ms
+[I 15:12:20.235 NotebookApp] Kernel started: 541b879d-814c-4c22-8153-3a2ab7beaffc, name: python3
+[W 15:12:22.207 NotebookApp] 404 GET /notebook/wwangbw/static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_AMS-Regular.otf (127.0.0.1) 26.79ms referer=http://localhost:8897/notebook/wwangbw/notebooks/LSTM_Captioning.ipynb
+[I 15:14:26.894 NotebookApp] Saving file at /LSTM_Captioning.ipynb
+[I 15:14:30.307 NotebookApp] Saving file at /LSTM_Captioning.ipynb
+[I 15:16:20.956 NotebookApp] Saving file at /LSTM_Captioning.ipynb
+[I 15:18:20.927 NotebookApp] Saving file at /LSTM_Captioning.ipynb
+[I 15:20:20.975 NotebookApp] Saving file at /LSTM_Captioning.ipynb
+[I 15:22:20.961 NotebookApp] Saving file at /LSTM_Captioning.ipynb
+[I 15:24:20.971 NotebookApp] Saving file at /LSTM_Captioning.ipynb
+[I 15:26:20.951 NotebookApp] Saving file at /LSTM_Captioning.ipynb
+[I 15:28:20.945 NotebookApp] Saving file at /LSTM_Captioning.ipynb
+[I 15:30:20.963 NotebookApp] Saving file at /LSTM_Captioning.ipynb
+[I 15:32:20.941 NotebookApp] Saving file at /LSTM_Captioning.ipynb
+[I 15:34:20.931 NotebookApp] Saving file at /LSTM_Captioning.ipynb
+[I 15:36:21.008 NotebookApp] Saving file at /LSTM_Captioning.ipynb
+[I 15:38:20.941 NotebookApp] Saving file at /LSTM_Captioning.ipynb
+[I 15:40:20.921 NotebookApp] Saving file at /LSTM_Captioning.ipynb
+[I 15:42:21.017 NotebookApp] Saving file at /LSTM_Captioning.ipynb
+[I 15:44:20.955 NotebookApp] Saving file at /LSTM_Captioning.ipynb
+[I 15:46:20.970 NotebookApp] Saving file at /LSTM_Captioning.ipynb
+[I 15:48:20.941 NotebookApp] Saving file at /LSTM_Captioning.ipynb
+[I 15:50:20.941 NotebookApp] Saving file at /LSTM_Captioning.ipynb
+[I 15:52:20.951 NotebookApp] Saving file at /LSTM_Captioning.ipynb
+[I 15:54:20.943 NotebookApp] Saving file at /LSTM_Captioning.ipynb
+[I 15:56:20.952 NotebookApp] Saving file at /LSTM_Captioning.ipynb
+[I 15:58:20.941 NotebookApp] Saving file at /LSTM_Captioning.ipynb
+[I 16:00:20.964 NotebookApp] Saving file at /LSTM_Captioning.ipynb
+[I 16:02:20.947 NotebookApp] Saving file at /LSTM_Captioning.ipynb
+[I 16:04:20.961 NotebookApp] Saving file at /LSTM_Captioning.ipynb
+[I 16:06:20.321 NotebookApp] Saving file at /LSTM_Captioning.ipynb
+[I 16:08:20.985 NotebookApp] Saving file at /LSTM_Captioning.ipynb
+[I 16:10:20.951 NotebookApp] Saving file at /LSTM_Captioning.ipynb
+[I 16:12:20.980 NotebookApp] Saving file at /LSTM_Captioning.ipynb
+[I 16:14:20.945 NotebookApp] Saving file at /LSTM_Captioning.ipynb
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
