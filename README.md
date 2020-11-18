@@ -1,7 +1,7 @@
 # COMP4471-2020Fall
 The Assignment repository for COMP4471 HKUST in Fall 2020
 
-The three assignments are all adopted from CS231N in Stanford.
+All three assignments are all adopted from CS231N in Stanford. 
 
 >Assignment 1: 109/100
 >
