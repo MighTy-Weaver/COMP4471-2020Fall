@@ -28,12 +28,8 @@ def rel_error(x, y):
     return np.max(np.abs(x - y) / (np.maximum(1e-8, np.abs(x) + np.abs(y))))
 
 
-# Load COCO data from disk; this returns a dictionary
-# We'll work with dimensionality-reduced features for this notebook, but feel
-# free to experiment with the original features by changing the flag below.
 data = load_coco_data(pca_features=True)
 
-# Print out all the keys and values from the data dictionary
 for k, v in data.items():
     if type(v) == np.ndarray:
         print(k, type(v), v.shape, v.dtype)
