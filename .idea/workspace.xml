@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8602db30-7138-4f0a-bd2f-5d14d40012a4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8602db30-7138-4f0a-bd2f-5d14d40012a4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +45,11 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\大三上\COMP4471\Assignment" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,6 +63,7 @@
       <workItem from="1605756091644" duration="1711000" />
       <workItem from="1606012605616" duration="12000" />
       <workItem from="1606046538248" duration="1884000" />
+      <workItem from="1606477461600" duration="779000" />
     </task>
     <task id="LOCAL-00001" summary="Assignment 1 and 2 upload">
       <created>1605704227099</created>
@@ -110,7 +114,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606046617694</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="final update">
+      <created>1606477506631</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606477506631</updated>
+    </task>
+    <task id="LOCAL-00009" summary="readme move">
+      <created>1606477636187</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1606477636187</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,13 +153,15 @@
     <MESSAGE value="dcgan update" />
     <MESSAGE value="assignment 3 bonus update" />
     <MESSAGE value="bonus update" />
-    <option name="LAST_COMMIT_MESSAGE" value="bonus update" />
+    <MESSAGE value="final update" />
+    <MESSAGE value="readme move" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme move" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1606046623008">
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1606477637711">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1605704701991" />
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606046623008" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606477637711" />
   </component>
 </project>
