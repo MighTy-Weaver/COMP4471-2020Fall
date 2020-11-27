@@ -5,7 +5,7 @@ All three assignments are all adopted from CS231N in Stanford.
 
 >Assignment 1: 109/100
 >
->Assignment 2: /100
+>Assignment 2: 108/100
 >
 >Assignment 3: /100
 >
