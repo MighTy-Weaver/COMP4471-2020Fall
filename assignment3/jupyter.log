@@ -1,13 +1,13 @@
 nohup: ignoring input
 [I 15:11:13.917 NotebookApp] The port 10000 is already in use, trying another port.
-[I 15:11:13.920 NotebookApp] Serving notebooks from local directory: /data/weiqi/4471/assignment3
+[I 15:11:13.920 NotebookApp] Serving notebooks from local directory: /data/Anonymous/4471/assignment3
 [I 15:11:13.920 NotebookApp] Jupyter Notebook 6.1.5 is running at:
-[I 15:11:13.920 NotebookApp] http://localhost:10001/notebook/wwangbw/
+[I 15:11:13.920 NotebookApp] http://localhost:10001/notebook/Anonymous/
 [I 15:11:13.920 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[I 15:12:07.193 NotebookApp] 302 GET /notebook/wwangbw/tree (127.0.0.1) 2.30ms
-[I 15:12:08.706 NotebookApp] 302 POST /notebook/wwangbw/login?next=%2Fnotebook%2Fwwangbw%2Ftree (127.0.0.1) 3.39ms
+[I 15:12:07.193 NotebookApp] 302 GET /notebook/Anonymous/tree (127.0.0.1) 2.30ms
+[I 15:12:08.706 NotebookApp] 302 POST /notebook/Anonymous/login?next=%2Fnotebook%2FAnonymous%2Ftree (127.0.0.1) 3.39ms
 [I 15:12:20.235 NotebookApp] Kernel started: 541b879d-814c-4c22-8153-3a2ab7beaffc, name: python3
-[W 15:12:22.207 NotebookApp] 404 GET /notebook/wwangbw/static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_AMS-Regular.otf (127.0.0.1) 26.79ms referer=http://localhost:8897/notebook/wwangbw/notebooks/LSTM_Captioning.ipynb
+[W 15:12:22.207 NotebookApp] 404 GET /notebook/Anonymous/static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_AMS-Regular.otf (127.0.0.1) 26.79ms referer=http://localhost:8897/notebook/Anonymous/notebooks/LSTM_Captioning.ipynb
 [I 15:14:26.894 NotebookApp] Saving file at /LSTM_Captioning.ipynb
 [I 15:14:30.307 NotebookApp] Saving file at /LSTM_Captioning.ipynb
 [I 15:16:20.956 NotebookApp] Saving file at /LSTM_Captioning.ipynb
