@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8602db30-7138-4f0a-bd2f-5d14d40012a4" name="Default Changelist" comment="" />
+    <list default="true" id="8602db30-7138-4f0a-bd2f-5d14d40012a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +68,8 @@
       <workItem from="1606477461600" duration="779000" />
       <workItem from="1606485745888" duration="210000" />
       <workItem from="1606542928498" duration="479000" />
+      <workItem from="1606543641418" duration="734000" />
+      <workItem from="1606546303846" duration="63000" />
     </task>
     <task id="LOCAL-00001" summary="Assignment 1 and 2 upload">
       <created>1605704227099</created>
@@ -144,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606543213636</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="delete mismatch images">
+      <created>1606543664545</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1606543664545</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,14 +184,15 @@
     <MESSAGE value="readme move" />
     <MESSAGE value="assignment3 update" />
     <MESSAGE value="Final update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final update" />
+    <MESSAGE value="delete mismatch images" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete mismatch images" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1606543230221">
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1606543750038">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1605704701991" />
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606543230221" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606543750038" />
     <state x="494" y="129" width="598" height="626" key="find.popup" timestamp="1606543400206">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
