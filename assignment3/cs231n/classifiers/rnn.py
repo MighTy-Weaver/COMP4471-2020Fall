@@ -218,12 +218,15 @@ class CaptioningRNN(object):
                 prev_h = rnn_step_forward(x[:, 0, :], prev_h, Wx, Wh, b)[0]
                 score = prev_h.dot(W_vocab) + b_vocab
                 captions[:, i] = np.argmax(score, axis=1)
+                prev_word = np.array([np.argmax(score, axis=1)]).T
         else:
+            prev_c = 0
             for i in range(max_length):
                 x, _ = word_embedding_forward(prev_word, W_embed)
-                prev_h, prev_c, _ = lstm_step_forward(x[:, 0, :], prev_h, 0, Wx, Wh, b)
+                prev_h, prev_c, _ = lstm_step_forward(x[:, 0, :], prev_h, prev_c, Wx, Wh, b)
                 score = prev_h.dot(W_vocab) + b_vocab
                 captions[:, i] = np.argmax(score, axis=1)
+                prev_word = np.array([np.argmax(score, axis=1)]).T
         ############################################################################
         #                             END OF YOUR CODE                             #
         ############################################################################
