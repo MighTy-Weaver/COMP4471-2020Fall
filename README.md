@@ -3,11 +3,11 @@ This is the assignment repository for **COMP4471 Deep Learning in Computer Visio
 
 All three assignments are all adopted from CS231N in Stanford. Some output screenshots are not released to keep anonymous.
 
->Assignment 1: 109/100
+>Assignment 1: **109/100**
 >
->Assignment 2: 108/100
+>Assignment 2: **108/100**
 >
->Assignment 3: /100
+>Assignment 3: **110/100**
 >
 
 ---
